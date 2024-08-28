@@ -1,6 +1,7 @@
 {
   "name": "radium-theme",
   "displayName": "Radium Theme",
+  "repository": "https://github.com/Simbaclaws/vscode-radium-theme",
   "description": "NvChad's radium theme ported to vscode",
   "version": "0.0.1",
   "engines": {
