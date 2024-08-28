@@ -1,0 +1,21 @@
+{
+  "name": "radium-theme",
+  "displayName": "Radium Theme",
+  "description": "NvChad's radium theme ported to vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Radium Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Radium Theme-color-theme.json"
+      }
+    ]
+  }
+}
