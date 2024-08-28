@@ -1,5 +1,5 @@
 {
-    "name": "Custom Radium Theme",
+    "name": "Radium Theme",
     "type": "dark",
     "colors": {
         "editor.background": "#101317",          // black / nvim bg

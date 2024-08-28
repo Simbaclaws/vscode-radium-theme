@@ -1,11 +1,12 @@
 {
-  "name": "radium-theme",
-  "displayName": "Radium Theme",
-  "repository": "https://github.com/Simbaclaws/vscode-radium-theme",
-  "description": "NvChad's radium theme ported to vscode",
-  "version": "0.0.1",
+  "name": "radium-theme-vscode",
+  "displayName": "Radium Theme for VSCode",
+  "description": "A port of the Radium Theme from NvChad to Visual Studio Code.",
+  "version": "0.1.0",
+  "publisher": "HylkeHellinga",
+  "author": "Hylke Hellinga <hylke.hellinga@gmail.com>",
   "engines": {
-    "vscode": "^1.92.0"
+    "vscode": "^1.50.0"
   },
   "categories": [
     "Themes"
@@ -13,10 +14,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Radium Theme",
+        "label": "Radium",
         "uiTheme": "vs-dark",
-        "path": "./themes/Radium Theme-color-theme.json"
+        "path": "./themes/radium-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Simbaclaws/vscode-radium-theme.git"
+  },
+  "keywords": [
+    "theme",
+    "radium",
+    "nvchad"
+  ]
 }
