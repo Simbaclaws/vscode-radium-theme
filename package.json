@@ -2,12 +2,13 @@
   "name": "radium-theme-vscode",
   "displayName": "Radium Theme for VSCode",
   "description": "A port of the Radium Theme from NvChad to Visual Studio Code.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "HylkeHellinga",
   "author": "Hylke Hellinga <hylke.hellinga@gmail.com>",
   "engines": {
     "vscode": "^1.50.0"
   },
+  "icon": "./images/logo.webp",
   "categories": [
     "Themes"
   ],
