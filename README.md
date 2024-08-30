@@ -3,6 +3,9 @@
 ## Overview
 The Radium Theme for Visual Studio Code is a port of the popular Radium theme originally developed for NvChad. This theme aims to bring the sleek, modern aesthetic of the Radium theme to the Visual Studio Code environment. 
 
+## Screenshot
+![Radium Theme Screenshot](./screenshot.png)
+
 ## Status
 This theme is currently in development and not all features are fully functional yet. Efforts are being made to achieve as close a match to the original NvChad Radium theme as possible. Some elements and colors might not be perfectly identical due to the differences in theme engines between NvChad and Visual Studio Code.
 
